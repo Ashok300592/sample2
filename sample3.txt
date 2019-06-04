@@ -1,1 +1,1 @@
-hi this is master branch from Sample2 repo
+hi this is feature1 branch from Sample2 repository
