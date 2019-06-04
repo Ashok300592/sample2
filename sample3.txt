@@ -1,1 +1,2 @@
 hi this is feature1 branch from Sample2 repository
+feature1
