@@ -1,1 +1,2 @@
 hi this is master branch from Sample2 repository
+master
